@@ -1,0 +1,4 @@
+season,days,avg_temperature_c,total_rainfall_mm,avg_humidity_percentage,avg_wind_speed_kmh,avg_air_quality_index
+Monsoon,153,25.58,1705.19,84.4,13.57,98.36
+Summer,92,30.26,299.58,65.93,8.74,127.38
+Winter,120,23.23,7.79,55.42,8.85,189.82

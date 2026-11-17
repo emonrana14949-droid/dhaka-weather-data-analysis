@@ -1,0 +1,7 @@
+,temperature_c,feels_like_c,humidity_percentage,rainfall_mm,wind_speed_kmh,air_quality_index
+temperature_c,1.0,0.97,0.11,0.12,-0.14,-0.25
+feels_like_c,0.97,1.0,0.34,0.2,-0.01,-0.41
+humidity_percentage,0.11,0.34,1.0,0.36,0.51,-0.72
+rainfall_mm,0.12,0.2,0.36,1.0,0.18,-0.28
+wind_speed_kmh,-0.14,-0.01,0.51,0.18,1.0,-0.43
+air_quality_index,-0.25,-0.41,-0.72,-0.28,-0.43,1.0
